@@ -1,0 +1,2 @@
+episodes/E03/*.mp4 filter=lfs diff=lfs merge=lfs -text
+episodes/E03/*.mp3 filter=lfs diff=lfs merge=lfs -text
