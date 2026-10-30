@@ -1,0 +1,145 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyric,Fredoka,84,&H00FFFFFF,&H00FFFFFF,&H001F8AFF,&H78301000,-1,0,0,0,100,100,1,0,1,8,3,2,80,80,451,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.75,0:00:08.00,Lyric,,0,0,0,,{\fad(0,0)}Off we go to the pumpkin patch,
+Dialogue: 0,0:00:08.00,0:00:08.31,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Off{\1c&H00FFFFFF&\3c&H001F8AFF&} we go to the pumpkin patch,
+Dialogue: 0,0:00:08.31,0:00:08.60,Lyric,,0,0,0,,{\fad(0,0)}Off {\1c&H0000D7FF&\3c&H000E5AE0&}we{\1c&H00FFFFFF&\3c&H001F8AFF&} go to the pumpkin patch,
+Dialogue: 0,0:00:08.60,0:00:08.90,Lyric,,0,0,0,,{\fad(0,0)}Off we {\1c&H0000D7FF&\3c&H000E5AE0&}go{\1c&H00FFFFFF&\3c&H001F8AFF&} to the pumpkin patch,
+Dialogue: 0,0:00:08.90,0:00:09.20,Lyric,,0,0,0,,{\fad(0,0)}Off we go {\1c&H0000D7FF&\3c&H000E5AE0&}to{\1c&H00FFFFFF&\3c&H001F8AFF&} the pumpkin patch,
+Dialogue: 0,0:00:09.20,0:00:09.50,Lyric,,0,0,0,,{\fad(0,0)}Off we go to {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} pumpkin patch,
+Dialogue: 0,0:00:09.50,0:00:10.09,Lyric,,0,0,0,,{\fad(0,0)}Off we go to the {\1c&H0000D7FF&\3c&H000E5AE0&}pumpkin{\1c&H00FFFFFF&\3c&H001F8AFF&} patch,
+Dialogue: 0,0:00:10.09,0:00:10.65,Lyric,,0,0,0,,{\fad(0,0)}Off we go to the pumpkin {\1c&H0000D7FF&\3c&H000E5AE0&}patch,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:10.65,0:00:10.90,Lyric,,0,0,0,,{\fad(0,0)}big ones, small ones, find a match!
+Dialogue: 0,0:00:10.90,0:00:11.14,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}big{\1c&H00FFFFFF&\3c&H001F8AFF&} ones, small ones, find a match!
+Dialogue: 0,0:00:11.14,0:00:11.42,Lyric,,0,0,0,,{\fad(0,0)}big {\1c&H0000D7FF&\3c&H000E5AE0&}ones,{\1c&H00FFFFFF&\3c&H001F8AFF&} small ones, find a match!
+Dialogue: 0,0:00:11.42,0:00:11.80,Lyric,,0,0,0,,{\fad(0,0)}big ones, {\1c&H0000D7FF&\3c&H000E5AE0&}small{\1c&H00FFFFFF&\3c&H001F8AFF&} ones, find a match!
+Dialogue: 0,0:00:11.80,0:00:12.10,Lyric,,0,0,0,,{\fad(0,0)}big ones, small {\1c&H0000D7FF&\3c&H000E5AE0&}ones,{\1c&H00FFFFFF&\3c&H001F8AFF&} find a match!
+Dialogue: 0,0:00:12.10,0:00:12.40,Lyric,,0,0,0,,{\fad(0,0)}big ones, small ones, {\1c&H0000D7FF&\3c&H000E5AE0&}find{\1c&H00FFFFFF&\3c&H001F8AFF&} a match!
+Dialogue: 0,0:00:12.40,0:00:12.70,Lyric,,0,0,0,,{\fad(0,0)}big ones, small ones, find {\1c&H0000D7FF&\3c&H000E5AE0&}a{\1c&H00FFFFFF&\3c&H001F8AFF&} match!
+Dialogue: 0,0:00:12.70,0:00:14.35,Lyric,,0,0,0,,{\fad(0,0)}big ones, small ones, find a {\1c&H0000D7FF&\3c&H000E5AE0&}match!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:14.35,0:00:14.60,Lyric,,0,0,0,,{\fad(0,0)}Crunchy leaves beneath our feet,
+Dialogue: 0,0:00:14.60,0:00:15.20,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Crunchy{\1c&H00FFFFFF&\3c&H001F8AFF&} leaves beneath our feet,
+Dialogue: 0,0:00:15.20,0:00:15.46,Lyric,,0,0,0,,{\fad(0,0)}Crunchy {\1c&H0000D7FF&\3c&H000E5AE0&}leaves{\1c&H00FFFFFF&\3c&H001F8AFF&} beneath our feet,
+Dialogue: 0,0:00:15.46,0:00:16.10,Lyric,,0,0,0,,{\fad(0,0)}Crunchy leaves {\1c&H0000D7FF&\3c&H000E5AE0&}beneath{\1c&H00FFFFFF&\3c&H001F8AFF&} our feet,
+Dialogue: 0,0:00:16.10,0:00:16.35,Lyric,,0,0,0,,{\fad(0,0)}Crunchy leaves beneath {\1c&H0000D7FF&\3c&H000E5AE0&}our{\1c&H00FFFFFF&\3c&H001F8AFF&} feet,
+Dialogue: 0,0:00:16.35,0:00:17.85,Lyric,,0,0,0,,{\fad(0,0)}Crunchy leaves beneath our {\1c&H0000D7FF&\3c&H000E5AE0&}feet,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:17.85,0:00:18.10,Lyric,,0,0,0,,{\fad(0,0)}autumn days are oh so sweet!
+Dialogue: 0,0:00:18.10,0:00:18.71,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}autumn{\1c&H00FFFFFF&\3c&H001F8AFF&} days are oh so sweet!
+Dialogue: 0,0:00:18.71,0:00:19.00,Lyric,,0,0,0,,{\fad(0,0)}autumn {\1c&H0000D7FF&\3c&H000E5AE0&}days{\1c&H00FFFFFF&\3c&H001F8AFF&} are oh so sweet!
+Dialogue: 0,0:00:19.00,0:00:19.39,Lyric,,0,0,0,,{\fad(0,0)}autumn days {\1c&H0000D7FF&\3c&H000E5AE0&}are{\1c&H00FFFFFF&\3c&H001F8AFF&} oh so sweet!
+Dialogue: 0,0:00:19.39,0:00:19.60,Lyric,,0,0,0,,{\fad(0,0)}autumn days are {\1c&H0000D7FF&\3c&H000E5AE0&}oh{\1c&H00FFFFFF&\3c&H001F8AFF&} so sweet!
+Dialogue: 0,0:00:19.60,0:00:19.90,Lyric,,0,0,0,,{\fad(0,0)}autumn days are oh {\1c&H0000D7FF&\3c&H000E5AE0&}so{\1c&H00FFFFFF&\3c&H001F8AFF&} sweet!
+Dialogue: 0,0:00:19.90,0:00:21.35,Lyric,,0,0,0,,{\fad(0,0)}autumn days are oh so {\1c&H0000D7FF&\3c&H000E5AE0&}sweet!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:21.35,0:00:21.60,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, big and bright,
+Dialogue: 0,0:00:21.60,0:00:22.27,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Pumpkin,{\1c&H00FFFFFF&\3c&H001F8AFF&} pumpkin, big and bright,
+Dialogue: 0,0:00:22.27,0:00:22.72,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, {\1c&H0000D7FF&\3c&H000E5AE0&}pumpkin,{\1c&H00FFFFFF&\3c&H001F8AFF&} big and bright,
+Dialogue: 0,0:00:22.72,0:00:23.16,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, {\1c&H0000D7FF&\3c&H000E5AE0&}big{\1c&H00FFFFFF&\3c&H001F8AFF&} and bright,
+Dialogue: 0,0:00:23.16,0:00:23.45,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, big {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} bright,
+Dialogue: 0,0:00:23.45,0:00:24.85,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, big and {\1c&H0000D7FF&\3c&H000E5AE0&}bright,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:24.85,0:00:25.10,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, what a sight!
+Dialogue: 0,0:00:25.10,0:00:25.40,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}God{\1c&H00FFFFFF&\3c&H001F8AFF&} made the harvest, what a sight!
+Dialogue: 0,0:00:25.40,0:00:25.66,Lyric,,0,0,0,,{\fad(0,0)}God {\1c&H0000D7FF&\3c&H000E5AE0&}made{\1c&H00FFFFFF&\3c&H001F8AFF&} the harvest, what a sight!
+Dialogue: 0,0:00:25.66,0:00:26.00,Lyric,,0,0,0,,{\fad(0,0)}God made {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} harvest, what a sight!
+Dialogue: 0,0:00:26.00,0:00:26.54,Lyric,,0,0,0,,{\fad(0,0)}God made the {\1c&H0000D7FF&\3c&H000E5AE0&}harvest,{\1c&H00FFFFFF&\3c&H001F8AFF&} what a sight!
+Dialogue: 0,0:00:26.54,0:00:26.90,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, {\1c&H0000D7FF&\3c&H000E5AE0&}what{\1c&H00FFFFFF&\3c&H001F8AFF&} a sight!
+Dialogue: 0,0:00:26.90,0:00:27.18,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, what {\1c&H0000D7FF&\3c&H000E5AE0&}a{\1c&H00FFFFFF&\3c&H001F8AFF&} sight!
+Dialogue: 0,0:00:27.18,0:00:28.45,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, what a {\1c&H0000D7FF&\3c&H000E5AE0&}sight!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:28.45,0:00:28.70,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the food we share,
+Dialogue: 0,0:00:28.70,0:00:28.96,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} You, God, for the food we share,
+Dialogue: 0,0:00:28.96,0:00:29.25,Lyric,,0,0,0,,{\fad(0,0)}Thank {\1c&H0000D7FF&\3c&H000E5AE0&}You,{\1c&H00FFFFFF&\3c&H001F8AFF&} God, for the food we share,
+Dialogue: 0,0:00:29.25,0:00:29.60,Lyric,,0,0,0,,{\fad(0,0)}Thank You, {\1c&H0000D7FF&\3c&H000E5AE0&}God,{\1c&H00FFFFFF&\3c&H001F8AFF&} for the food we share,
+Dialogue: 0,0:00:29.60,0:00:29.85,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} the food we share,
+Dialogue: 0,0:00:29.85,0:00:30.12,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} food we share,
+Dialogue: 0,0:00:30.12,0:00:30.59,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the {\1c&H0000D7FF&\3c&H000E5AE0&}food{\1c&H00FFFFFF&\3c&H001F8AFF&} we share,
+Dialogue: 0,0:00:30.59,0:00:30.75,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the food {\1c&H0000D7FF&\3c&H000E5AE0&}we{\1c&H00FFFFFF&\3c&H001F8AFF&} share,
+Dialogue: 0,0:00:30.75,0:00:32.05,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the food we {\1c&H0000D7FF&\3c&H000E5AE0&}share,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:32.05,0:00:32.30,Lyric,,0,0,0,,{\fad(0,0)}and for the love that's everywhere!
+Dialogue: 0,0:00:32.30,0:00:32.52,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} for the love that's everywhere!
+Dialogue: 0,0:00:32.52,0:00:32.82,Lyric,,0,0,0,,{\fad(0,0)}and {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} the love that's everywhere!
+Dialogue: 0,0:00:32.82,0:00:33.20,Lyric,,0,0,0,,{\fad(0,0)}and for {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} love that's everywhere!
+Dialogue: 0,0:00:33.20,0:00:33.42,Lyric,,0,0,0,,{\fad(0,0)}and for the {\1c&H0000D7FF&\3c&H000E5AE0&}love{\1c&H00FFFFFF&\3c&H001F8AFF&} that's everywhere!
+Dialogue: 0,0:00:33.42,0:00:33.82,Lyric,,0,0,0,,{\fad(0,0)}and for the love {\1c&H0000D7FF&\3c&H000E5AE0&}that's{\1c&H00FFFFFF&\3c&H001F8AFF&} everywhere!
+Dialogue: 0,0:00:33.82,0:00:35.55,Lyric,,0,0,0,,{\fad(0,0)}and for the love that's {\1c&H0000D7FF&\3c&H000E5AE0&}everywhere!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:35.55,0:00:35.80,Lyric,,0,0,0,,{\fad(0,0)}This one's tall and this one's round,
+Dialogue: 0,0:00:35.80,0:00:36.09,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}This{\1c&H00FFFFFF&\3c&H001F8AFF&} one's tall and this one's round,
+Dialogue: 0,0:00:36.09,0:00:36.38,Lyric,,0,0,0,,{\fad(0,0)}This {\1c&H0000D7FF&\3c&H000E5AE0&}one's{\1c&H00FFFFFF&\3c&H001F8AFF&} tall and this one's round,
+Dialogue: 0,0:00:36.38,0:00:36.70,Lyric,,0,0,0,,{\fad(0,0)}This one's {\1c&H0000D7FF&\3c&H000E5AE0&}tall{\1c&H00FFFFFF&\3c&H001F8AFF&} and this one's round,
+Dialogue: 0,0:00:36.70,0:00:37.00,Lyric,,0,0,0,,{\fad(0,0)}This one's tall {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} this one's round,
+Dialogue: 0,0:00:37.00,0:00:37.25,Lyric,,0,0,0,,{\fad(0,0)}This one's tall and {\1c&H0000D7FF&\3c&H000E5AE0&}this{\1c&H00FFFFFF&\3c&H001F8AFF&} one's round,
+Dialogue: 0,0:00:37.25,0:00:37.60,Lyric,,0,0,0,,{\fad(0,0)}This one's tall and this {\1c&H0000D7FF&\3c&H000E5AE0&}one's{\1c&H00FFFFFF&\3c&H001F8AFF&} round,
+Dialogue: 0,0:00:37.60,0:00:39.15,Lyric,,0,0,0,,{\fad(0,0)}This one's tall and this one's {\1c&H0000D7FF&\3c&H000E5AE0&}round,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:39.15,0:00:39.40,Lyric,,0,0,0,,{\fad(0,0)}this one's sitting on the ground!
+Dialogue: 0,0:00:39.40,0:00:39.64,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}this{\1c&H00FFFFFF&\3c&H001F8AFF&} one's sitting on the ground!
+Dialogue: 0,0:00:39.64,0:00:40.00,Lyric,,0,0,0,,{\fad(0,0)}this {\1c&H0000D7FF&\3c&H000E5AE0&}one's{\1c&H00FFFFFF&\3c&H001F8AFF&} sitting on the ground!
+Dialogue: 0,0:00:40.00,0:00:40.60,Lyric,,0,0,0,,{\fad(0,0)}this one's {\1c&H0000D7FF&\3c&H000E5AE0&}sitting{\1c&H00FFFFFF&\3c&H001F8AFF&} on the ground!
+Dialogue: 0,0:00:40.60,0:00:40.81,Lyric,,0,0,0,,{\fad(0,0)}this one's sitting {\1c&H0000D7FF&\3c&H000E5AE0&}on{\1c&H00FFFFFF&\3c&H001F8AFF&} the ground!
+Dialogue: 0,0:00:40.81,0:00:41.25,Lyric,,0,0,0,,{\fad(0,0)}this one's sitting on {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} ground!
+Dialogue: 0,0:00:41.25,0:00:42.85,Lyric,,0,0,0,,{\fad(0,0)}this one's sitting on the {\1c&H0000D7FF&\3c&H000E5AE0&}ground!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:42.85,0:00:43.10,Lyric,,0,0,0,,{\fad(0,0)}I can't lift it, help me please!
+Dialogue: 0,0:00:43.10,0:00:43.48,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}I{\1c&H00FFFFFF&\3c&H001F8AFF&} can't lift it, help me please!
+Dialogue: 0,0:00:43.48,0:00:43.70,Lyric,,0,0,0,,{\fad(0,0)}I {\1c&H0000D7FF&\3c&H000E5AE0&}can't{\1c&H00FFFFFF&\3c&H001F8AFF&} lift it, help me please!
+Dialogue: 0,0:00:43.70,0:00:43.95,Lyric,,0,0,0,,{\fad(0,0)}I can't {\1c&H0000D7FF&\3c&H000E5AE0&}lift{\1c&H00FFFFFF&\3c&H001F8AFF&} it, help me please!
+Dialogue: 0,0:00:43.95,0:00:44.38,Lyric,,0,0,0,,{\fad(0,0)}I can't lift {\1c&H0000D7FF&\3c&H000E5AE0&}it,{\1c&H00FFFFFF&\3c&H001F8AFF&} help me please!
+Dialogue: 0,0:00:44.38,0:00:44.60,Lyric,,0,0,0,,{\fad(0,0)}I can't lift it, {\1c&H0000D7FF&\3c&H000E5AE0&}help{\1c&H00FFFFFF&\3c&H001F8AFF&} me please!
+Dialogue: 0,0:00:44.60,0:00:44.83,Lyric,,0,0,0,,{\fad(0,0)}I can't lift it, help {\1c&H0000D7FF&\3c&H000E5AE0&}me{\1c&H00FFFFFF&\3c&H001F8AFF&} please!
+Dialogue: 0,0:00:44.83,0:00:46.65,Lyric,,0,0,0,,{\fad(0,0)}I can't lift it, help me {\1c&H0000D7FF&\3c&H000E5AE0&}please!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:46.65,0:00:46.90,Lyric,,0,0,0,,{\fad(0,0)}Papi lifts it up with ease!
+Dialogue: 0,0:00:46.90,0:00:47.50,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Papi{\1c&H00FFFFFF&\3c&H001F8AFF&} lifts it up with ease!
+Dialogue: 0,0:00:47.50,0:00:47.80,Lyric,,0,0,0,,{\fad(0,0)}Papi {\1c&H0000D7FF&\3c&H000E5AE0&}lifts{\1c&H00FFFFFF&\3c&H001F8AFF&} it up with ease!
+Dialogue: 0,0:00:47.80,0:00:48.10,Lyric,,0,0,0,,{\fad(0,0)}Papi lifts {\1c&H0000D7FF&\3c&H000E5AE0&}it{\1c&H00FFFFFF&\3c&H001F8AFF&} up with ease!
+Dialogue: 0,0:00:48.10,0:00:48.39,Lyric,,0,0,0,,{\fad(0,0)}Papi lifts it {\1c&H0000D7FF&\3c&H000E5AE0&}up{\1c&H00FFFFFF&\3c&H001F8AFF&} with ease!
+Dialogue: 0,0:00:48.39,0:00:48.79,Lyric,,0,0,0,,{\fad(0,0)}Papi lifts it up {\1c&H0000D7FF&\3c&H000E5AE0&}with{\1c&H00FFFFFF&\3c&H001F8AFF&} ease!
+Dialogue: 0,0:00:48.79,0:00:49.95,Lyric,,0,0,0,,{\fad(0,0)}Papi lifts it up with {\1c&H0000D7FF&\3c&H000E5AE0&}ease!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:49.95,0:00:50.20,Lyric,,0,0,0,,{\fad(0,0)}Mimi's baking pumpkin pie,
+Dialogue: 0,0:00:50.20,0:00:50.80,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Mimi's{\1c&H00FFFFFF&\3c&H001F8AFF&} baking pumpkin pie,
+Dialogue: 0,0:00:50.80,0:00:51.48,Lyric,,0,0,0,,{\fad(0,0)}Mimi's {\1c&H0000D7FF&\3c&H000E5AE0&}baking{\1c&H00FFFFFF&\3c&H001F8AFF&} pumpkin pie,
+Dialogue: 0,0:00:51.48,0:00:51.93,Lyric,,0,0,0,,{\fad(0,0)}Mimi's baking {\1c&H0000D7FF&\3c&H000E5AE0&}pumpkin{\1c&H00FFFFFF&\3c&H001F8AFF&} pie,
+Dialogue: 0,0:00:51.93,0:00:53.45,Lyric,,0,0,0,,{\fad(0,0)}Mimi's baking pumpkin {\1c&H0000D7FF&\3c&H000E5AE0&}pie,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:53.45,0:00:53.70,Lyric,,0,0,0,,{\fad(0,0)}smell it, smell it, oh my, my!
+Dialogue: 0,0:00:53.70,0:00:54.00,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}smell{\1c&H00FFFFFF&\3c&H001F8AFF&} it, smell it, oh my, my!
+Dialogue: 0,0:00:54.00,0:00:54.27,Lyric,,0,0,0,,{\fad(0,0)}smell {\1c&H0000D7FF&\3c&H000E5AE0&}it,{\1c&H00FFFFFF&\3c&H001F8AFF&} smell it, oh my, my!
+Dialogue: 0,0:00:54.27,0:00:54.60,Lyric,,0,0,0,,{\fad(0,0)}smell it, {\1c&H0000D7FF&\3c&H000E5AE0&}smell{\1c&H00FFFFFF&\3c&H001F8AFF&} it, oh my, my!
+Dialogue: 0,0:00:54.60,0:00:54.90,Lyric,,0,0,0,,{\fad(0,0)}smell it, smell {\1c&H0000D7FF&\3c&H000E5AE0&}it,{\1c&H00FFFFFF&\3c&H001F8AFF&} oh my, my!
+Dialogue: 0,0:00:54.90,0:00:55.17,Lyric,,0,0,0,,{\fad(0,0)}smell it, smell it, {\1c&H0000D7FF&\3c&H000E5AE0&}oh{\1c&H00FFFFFF&\3c&H001F8AFF&} my, my!
+Dialogue: 0,0:00:55.17,0:00:55.50,Lyric,,0,0,0,,{\fad(0,0)}smell it, smell it, oh {\1c&H0000D7FF&\3c&H000E5AE0&}my,{\1c&H00FFFFFF&\3c&H001F8AFF&} my!
+Dialogue: 0,0:00:55.50,0:00:57.05,Lyric,,0,0,0,,{\fad(0,0)}smell it, smell it, oh my, {\1c&H0000D7FF&\3c&H000E5AE0&}my!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:57.05,0:00:57.17,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, big and bright,
+Dialogue: 0,0:00:57.17,0:00:57.84,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Pumpkin,{\1c&H00FFFFFF&\3c&H001F8AFF&} pumpkin, big and bright,
+Dialogue: 0,0:00:57.84,0:00:58.29,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, {\1c&H0000D7FF&\3c&H000E5AE0&}pumpkin,{\1c&H00FFFFFF&\3c&H001F8AFF&} big and bright,
+Dialogue: 0,0:00:58.29,0:00:58.73,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, {\1c&H0000D7FF&\3c&H000E5AE0&}big{\1c&H00FFFFFF&\3c&H001F8AFF&} and bright,
+Dialogue: 0,0:00:58.73,0:00:59.02,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, big {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} bright,
+Dialogue: 0,0:00:59.02,0:01:00.45,Lyric,,0,0,0,,{\fad(0,0)}Pumpkin, pumpkin, big and {\1c&H0000D7FF&\3c&H000E5AE0&}bright,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:01:00.45,0:01:00.67,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, what a sight!
+Dialogue: 0,0:01:00.67,0:01:00.97,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}God{\1c&H00FFFFFF&\3c&H001F8AFF&} made the harvest, what a sight!
+Dialogue: 0,0:01:00.97,0:01:01.23,Lyric,,0,0,0,,{\fad(0,0)}God {\1c&H0000D7FF&\3c&H000E5AE0&}made{\1c&H00FFFFFF&\3c&H001F8AFF&} the harvest, what a sight!
+Dialogue: 0,0:01:01.23,0:01:01.57,Lyric,,0,0,0,,{\fad(0,0)}God made {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} harvest, what a sight!
+Dialogue: 0,0:01:01.57,0:01:02.11,Lyric,,0,0,0,,{\fad(0,0)}God made the {\1c&H0000D7FF&\3c&H000E5AE0&}harvest,{\1c&H00FFFFFF&\3c&H001F8AFF&} what a sight!
+Dialogue: 0,0:01:02.11,0:01:02.47,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, {\1c&H0000D7FF&\3c&H000E5AE0&}what{\1c&H00FFFFFF&\3c&H001F8AFF&} a sight!
+Dialogue: 0,0:01:02.47,0:01:02.75,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, what {\1c&H0000D7FF&\3c&H000E5AE0&}a{\1c&H00FFFFFF&\3c&H001F8AFF&} sight!
+Dialogue: 0,0:01:02.75,0:01:04.05,Lyric,,0,0,0,,{\fad(0,0)}God made the harvest, what a {\1c&H0000D7FF&\3c&H000E5AE0&}sight!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:01:04.05,0:01:04.27,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the food we share,
+Dialogue: 0,0:01:04.27,0:01:04.53,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} You, God, for the food we share,
+Dialogue: 0,0:01:04.53,0:01:04.82,Lyric,,0,0,0,,{\fad(0,0)}Thank {\1c&H0000D7FF&\3c&H000E5AE0&}You,{\1c&H00FFFFFF&\3c&H001F8AFF&} God, for the food we share,
+Dialogue: 0,0:01:04.82,0:01:05.17,Lyric,,0,0,0,,{\fad(0,0)}Thank You, {\1c&H0000D7FF&\3c&H000E5AE0&}God,{\1c&H00FFFFFF&\3c&H001F8AFF&} for the food we share,
+Dialogue: 0,0:01:05.17,0:01:05.42,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} the food we share,
+Dialogue: 0,0:01:05.42,0:01:05.69,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} food we share,
+Dialogue: 0,0:01:05.69,0:01:06.16,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the {\1c&H0000D7FF&\3c&H000E5AE0&}food{\1c&H00FFFFFF&\3c&H001F8AFF&} we share,
+Dialogue: 0,0:01:06.16,0:01:06.32,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the food {\1c&H0000D7FF&\3c&H000E5AE0&}we{\1c&H00FFFFFF&\3c&H001F8AFF&} share,
+Dialogue: 0,0:01:06.32,0:01:07.65,Lyric,,0,0,0,,{\fad(0,0)}Thank You, God, for the food we {\1c&H0000D7FF&\3c&H000E5AE0&}share,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:01:07.65,0:01:07.87,Lyric,,0,0,0,,{\fad(0,0)}and for the love that's everywhere!
+Dialogue: 0,0:01:07.87,0:01:08.09,Lyric,,0,0,0,,{\fad(0,0)}{\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} for the love that's everywhere!
+Dialogue: 0,0:01:08.09,0:01:08.39,Lyric,,0,0,0,,{\fad(0,0)}and {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} the love that's everywhere!
+Dialogue: 0,0:01:08.39,0:01:08.77,Lyric,,0,0,0,,{\fad(0,0)}and for {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} love that's everywhere!
+Dialogue: 0,0:01:08.77,0:01:08.99,Lyric,,0,0,0,,{\fad(0,0)}and for the {\1c&H0000D7FF&\3c&H000E5AE0&}love{\1c&H00FFFFFF&\3c&H001F8AFF&} that's everywhere!
+Dialogue: 0,0:01:08.99,0:01:09.39,Lyric,,0,0,0,,{\fad(0,0)}and for the love {\1c&H0000D7FF&\3c&H000E5AE0&}that's{\1c&H00FFFFFF&\3c&H001F8AFF&} everywhere!
+Dialogue: 0,0:01:09.39,0:01:10.24,Lyric,,0,0,0,,{\fad(0,0)}and for the love that's {\1c&H0000D7FF&\3c&H000E5AE0&}everywhere!{\1c&H00FFFFFF&\3c&H001F8AFF&}
