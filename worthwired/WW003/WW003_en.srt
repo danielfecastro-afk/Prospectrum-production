@@ -1,0 +1,435 @@
+1
+00:00:00,500 --> 00:00:05,500
+A consumer group tracked 201 Black
+Friday deals for an entire year.
+
+2
+00:00:05,540 --> 00:00:07,740
+They checked the price every single day,
+
+3
+00:00:07,780 --> 00:00:10,380
+six months before and six months after.
+
+4
+00:00:10,420 --> 00:00:15,820
+Out of 201 deals, only one was
+actually cheapest on Black Friday.
+
+5
+00:00:15,860 --> 00:00:19,100
+One. And this year, the stakes are higher.
+
+6
+00:00:19,140 --> 00:00:24,620
+Prices are up 3.7% from last year,
+gas is sitting around $4.20 a gallon,
+
+7
+00:00:24,660 --> 00:00:29,740
+and 44% of Americans already expect
+to start next year in holiday debt.
+
+8
+00:00:29,780 --> 00:00:31,580
+Stores know you're stretched.
+
+9
+00:00:31,620 --> 00:00:36,060
+That's exactly why Black Friday
+2026 is built to trap you.
+
+10
+00:00:36,100 --> 00:00:38,620
+Here are the five traps,
+the numbers behind them,
+
+11
+00:00:38,660 --> 00:00:40,700
+and how to walk out with your money.
+
+12
+00:00:40,740 --> 00:00:42,446
+This is WorthWired.
+
+13
+00:00:42,696 --> 00:00:46,096
+Trap number one. The fake "was" price.
+
+14
+00:00:46,136 --> 00:00:48,656
+You see a TV. Was $999?
+
+15
+00:00:48,696 --> 00:00:52,656
+Now $599. Your brain locks
+onto that first number.
+
+16
+00:00:52,696 --> 00:00:54,096
+It's called anchoring.
+
+17
+00:00:54,136 --> 00:00:56,896
+And suddenly, the lower
+price feels like winning.
+
+18
+00:00:56,936 --> 00:00:59,536
+But was it ever really $999?
+
+19
+00:00:59,576 --> 00:01:01,616
+The UK consumer group Which?
+
+20
+00:01:01,656 --> 00:01:06,816
+found that 99.5% of Black Friday deals
+were the same price or cheaper at some
+
+21
+00:01:06,856 --> 00:01:08,096
+other time of the year.
+
+22
+00:01:08,136 --> 00:01:12,416
+92% were already that price or
+lower in the six months before.
+
+23
+00:01:12,456 --> 00:01:17,616
+In the US, the FTC's own pricing guides
+say a former price is deceptive if it's
+
+24
+00:01:17,656 --> 00:01:21,056
+fictitious, set high just
+to create a big markdown.
+
+25
+00:01:21,096 --> 00:01:24,096
+The rule exists, the tricks still happen.
+
+26
+00:01:24,136 --> 00:01:27,376
+The fix. Before you buy anything over $50,
+
+27
+00:01:27,416 --> 00:01:28,736
+check its price history.
+
+28
+00:01:28,776 --> 00:01:31,856
+Price trackers show you every
+price it's had for months.
+
+29
+00:01:31,896 --> 00:01:34,568
+If the deal is the
+normal price, walk away.
+
+30
+00:01:34,978 --> 00:01:37,018
+Trap number two: the countdown.
+
+31
+00:01:37,058 --> 00:01:40,458
+Only three left. Deal ends in 14 minutes.
+
+32
+00:01:40,498 --> 00:01:43,818
+Doorbusters, flashing
+timers, limited quantities.
+
+33
+00:01:43,858 --> 00:01:46,218
+None of that changes what
+the product is worth.
+
+34
+00:01:46,258 --> 00:01:48,378
+It changes how fast you decide.
+
+35
+00:01:48,418 --> 00:01:51,578
+Urgency is designed to skip the
+part of your brain that asks,
+
+36
+00:01:51,618 --> 00:01:53,178
+Do I actually need this?
+
+37
+00:01:53,218 --> 00:01:54,858
+And remember what the data said:
+
+38
+00:01:54,898 --> 00:01:57,178
+the same price usually comes back.
+
+39
+00:01:57,218 --> 00:01:59,418
+The fix is the 24-hour rule:
+
+40
+00:01:59,458 --> 00:02:02,378
+put it in your cart, close
+the app, and sleep on it.
+
+41
+00:02:02,418 --> 00:02:04,698
+If you still want it tomorrow
+and it's on your list,
+
+42
+00:02:04,738 --> 00:02:07,078
+buy it. Most of the time, you won't.
+
+43
+00:02:07,349 --> 00:02:10,029
+Trap number three, pay in four.
+
+44
+00:02:10,069 --> 00:02:12,749
+Four easy payments, zero interest.
+
+45
+00:02:12,789 --> 00:02:17,629
+It sounds harmless, and 39% of Americans
+say they'll use it or consider it this
+
+46
+00:02:17,669 --> 00:02:22,189
+holiday season. But the CFPB, the
+Federal Consumer Protection Agency,
+
+47
+00:02:22,229 --> 00:02:23,469
+studied these loans.
+
+48
+00:02:23,509 --> 00:02:27,709
+More than 60% of borrowers had several
+of them going at the same time.
+
+49
+00:02:27,749 --> 00:02:30,109
+A third used more than one company.
+
+50
+00:02:30,149 --> 00:02:32,589
+So no single app sees the whole picture,
+
+51
+00:02:32,629 --> 00:02:33,789
+and neither do you.
+
+52
+00:02:33,829 --> 00:02:37,469
+$40 here, $60 there, $25 on another app,
+
+53
+00:02:37,509 --> 00:02:41,149
+and by January, half your
+paycheck is already spoken for.
+
+54
+00:02:41,189 --> 00:02:45,789
+Lenders approved 78% of these loans
+for people with subprime credit.
+
+55
+00:02:45,829 --> 00:02:48,349
+The fix. If you can't pay for it today,
+
+56
+00:02:48,389 --> 00:02:50,589
+you can't afford it in four parts.
+
+57
+00:02:50,629 --> 00:02:54,101
+And never have more than one
+pay-later plan open at a time.
+
+58
+00:02:54,351 --> 00:02:57,591
+Trap number four and
+the most expensive one.
+
+59
+00:02:57,631 --> 00:03:00,871
+Save 20% today when you open a store card.
+
+60
+00:03:00,911 --> 00:03:04,311
+Let's do the math. A $750 TV.
+
+61
+00:03:04,351 --> 00:03:06,871
+You open the card, you save 20%.
+
+62
+00:03:06,911 --> 00:03:09,991
+That's $150 off. You pay $600.
+
+63
+00:03:10,031 --> 00:03:15,431
+Feels great. But the average store credit
+card charges over 30% interest according
+
+64
+00:03:15,471 --> 00:03:21,031
+to Bankrate. If you pay $30 a month, it
+takes you 29 months to pay off that TV
+
+65
+00:03:21,071 --> 00:03:24,131
+and you pay $244 in interest.
+
+66
+00:03:24,351 --> 00:03:28,151
+You saved $150. You paid $244.
+
+67
+00:03:28,191 --> 00:03:30,311
+The store didn't give you a discount.
+
+68
+00:03:30,351 --> 00:03:32,311
+It sold you a loan.
+
+69
+00:03:32,351 --> 00:03:37,031
+The fix. Only open a store card if you'll
+pay the full balance on the very first
+
+70
+00:03:37,071 --> 00:03:40,372
+statement. Otherwise,
+the discount is the bait.
+
+71
+00:03:40,622 --> 00:03:43,862
+Trap number five. Spend more to save more.
+
+72
+00:03:43,902 --> 00:03:46,342
+Free shipping over $75.
+
+73
+00:03:46,382 --> 00:03:52,102
+Buy two, get one. Spend $100, get a $20
+gift card you can only use in January
+
+74
+00:03:52,142 --> 00:03:55,862
+at the same store. Each one
+pushes your total up a little.
+
+75
+00:03:55,902 --> 00:04:02,182
+And it adds up. A 2026 survey by
+Omnisend found that 44% of Americans
+
+76
+00:04:02,222 --> 00:04:04,902
+expect to carry holiday
+debt into next year,
+
+77
+00:04:04,942 --> 00:04:07,702
+averaging $408 per person.
+
+78
+00:04:07,742 --> 00:04:10,982
+That's almost $49 billion nationwide.
+
+79
+00:04:11,022 --> 00:04:14,662
+With holiday groceries
+costing more and gas over $4,
+
+80
+00:04:14,702 --> 00:04:16,502
+that debt doesn't stay small.
+
+81
+00:04:16,542 --> 00:04:20,243
+It follows you into a year where
+everything already costs more.
+
+82
+00:04:20,733 --> 00:04:23,173
+So here's your Black Friday playbook.
+
+83
+00:04:23,213 --> 00:04:25,413
+One. Make the list now.
+
+84
+00:04:25,453 --> 00:04:28,293
+Names, gifts, and a dollar limit for each.
+
+85
+00:04:28,333 --> 00:04:30,773
+If it's not on the list, it's not a deal.
+
+86
+00:04:30,813 --> 00:04:35,493
+Two. Check the price history
+before you buy anything over $50.
+
+87
+00:04:35,533 --> 00:04:38,133
+Three. Use the 24-hour rule.
+
+88
+00:04:38,173 --> 00:04:39,973
+Cart it, sleep on it.
+
+89
+00:04:40,013 --> 00:04:44,133
+Four. Pay with cash, debit, or
+a credit card you pay in full.
+
+90
+00:04:44,173 --> 00:04:47,253
+No store cards, no
+stacked pay-later plans.
+
+91
+00:04:47,293 --> 00:04:51,413
+Five. Set one total holiday
+budget and track it like a bill.
+
+92
+00:04:51,453 --> 00:04:53,233
+When it's gone, you're done.
+
+93
+00:04:53,494 --> 00:04:55,534
+Black Friday isn't evil.
+
+94
+00:04:55,574 --> 00:04:59,934
+Real deals exist. But the biggest discount
+you'll get this year is the one you
+
+95
+00:04:59,974 --> 00:05:02,894
+give yourself by not paying for the trap.
+
+96
+00:05:02,934 --> 00:05:05,854
+Comment the worst deal a
+store ever talked you into.
+
+97
+00:05:05,894 --> 00:05:09,614
+And if this saved you even 50 bucks,
+send it to someone who's about to open a
+
+98
+00:05:09,654 --> 00:05:12,407
+store card. This is WorthWired.
+
