@@ -1,0 +1,91 @@
+"""Batch-1 Shorts config (E03). Times are master seconds; shot indices refer to E03 timeline.json segs.
+Shot tuple: (seg, mode, x-keyframes [(t_local, x_center)], ext, burn, hold_to_end)
+  mode 'crop' = 9:16 crop centred on x (panned linearly between keyframes); 'fit' = full frame on blurred copy.
+  burn = shot carries the master's burned-in chorus karaoke -> use only source rows 0..939.
+Cue tuple: ('K'|'D', start, end_or_None, text)   K = karaoke (sung), D = plain (spoken)."""
+
+CHORUS = ["Thank you, God, for my family (my family!)", "Thank you for the love I see (I see!)",
+          "Every hug, every smile, every good gift", "all the while comes from You.",
+          "Thank you, God, for my family!"]
+
+SHORTS = {
+ "MCS01_every_good_gift": dict(
+  title="THANK YOU, GOD! 🙏", t0=20.0, t1=47.3,
+  shots=[(5, 'crop', [(0, 1250)], False, 860, False),
+         (6, 'fit', None, False, True, False),
+         (7, 'crop', [(0, 720)], False, True, False),
+         (8, 'fit', None, False, True, False),
+         (9, 'crop', [(0, 1000)], False, True, False),
+         (10, 'crop', [(0, 1010), (1.1, 940), (2.1, 910), (3.0, 960)], False, True, False),
+         (11, 'fit', None, True, True, False)],
+  cues=[('D', 20.16, 24.44, "Look around, mija. Every good gift... comes from God!")] +
+       [('K', t, None, l) for t, l in zip([30.01, 34.73, 38.51, 42.27, 44.39], CHORUS)],
+  last_end=47.05),
+ "MCS02_dinner_prayer": dict(
+  title="LUNA'S DINNER PRAYER 🙏", t0=179.35, t1=231.8,
+  shots=[(48, 'crop', [(0, 500)], False, False, False),
+         (49, 'crop', [(0, 560), (4.1, 540)], False, False, False),
+         (50, 'fit', None, False, False, False),
+         (51, 'crop', [(0, 950)], False, False, False),
+         (52, 'crop', [(0, 950)], False, False, False),
+         (53, 'fit', None, False, False, False),
+         (54, 'fit', None, True, True, False),
+         (55, 'crop', [(0, 790)], False, True, False),
+         (56, 'fit', None, False, True, False),
+         (57, 'fit', None, True, True, False),
+         (58, 'crop', [(0, 1000), (1.1, 965), (3.05, 1000)], False, True, False),
+         (59, 'crop', [(0, 990)], False, True, False),
+         (60, 'fit', None, True, True, False)],
+  cues=[('D', 179.542, 181.942, "Mimi, I know what to say now!"),
+        ('D', 182.142, 186.192, "Every good gift comes from God...\\Nand the best one is us!"),
+        ('D', 190.543, 193.983, "Dear God... thank You for Papi's strong hands..."),
+        ('D', 194.483, 198.383, "for Mami's yummy food...\\Nfor Mateo and our puppy..."),
+        ('D', 199.483, 202.983, "for all our friends in the garden...\\Nand for Mimi's hugs."),
+        ('D', 203.383, 206.483, "Every good gift comes from You. Amen!"),
+        ('D', 207.383, 211.033, "Amen! Amen! Amen!"),
+        ('D', 211.233, 213.483, "Amen! Now let's eat!")] +
+       [('K', t, None, l) for t, l in zip([215.333, 219.733, 223.333, 227.053, 229.173], CHORUS)],
+  last_end=231.62),
+ "MCS03_lights_out": dict(
+  title="SCARED OF THE DARK? 🌙", t0=149.25, t1=179.42,
+  shots=[(41, 'crop', [(0, 950), (3.9, 920)], False, False, False),
+         (42, 'crop', [(0, 1140)], False, False, False),
+         (43, 'fit', None, False, False, False),
+         (44, 'fit', None, False, False, False),
+         (45, 'fit', None, False, False, False),
+         (46, 'fit', None, False, False, False),
+         (47, 'crop', [(0.1, 913), (1.5, 893), (3.0, 966), (4.3, 985)], False, False, True)],
+  cues=[('D', 149.382, 152.832, "Whoa! The lights went out! I can't see anything!"),
+        ('D', 153.462, 157.182, "Mimi... I'm scared. It's so dark."),
+        ('K', 161.59, 165.6, "When the night is dark and the thunder's loud,"),
+        ('K', 166.05, 170.0, "when the rain comes down from a big gray cloud,"),
+        ('K', 170.95, 174.6, "hold my hand, mija, don't you fear."),
+        ('K', 175.35, 179.27, "God is with us, and we're all right here.")],
+  last_end=179.27),
+ "MCS04_garden_friends": dict(
+  title="THANK YOU FOR MY FRIENDS! 🐶", t0=100.75, t1=144.75,
+  shots=[(27, 'fit', None, True, False, False),
+         (28, 'fit', None, True, False, False),
+         (29, 'crop', [(0, 860)], True, False, False),
+         (30, 'fit', None, True, False, False),
+         (31, 'crop', [(0, 780), (0.45, 780), (0.9, 880), (4.0, 900)], True, False, False),
+         (32, 'fit', None, True, False, False),
+         (33, 'fit', None, True, False, False),
+         (34, 'fit', None, True, True, False),
+         (35, 'fit', None, True, True, False),
+         (36, 'fit', None, True, True, False),
+         (37, 'crop', [(0, 992), (1.2, 917), (2.3, 940), (3.3, 965)], False, True, False),
+         (38, 'crop', [(0, 960), (1.1, 920), (2.1, 980), (3.0, 965)], False, True, False),
+         (39, 'fit', None, True, True, False)],
+  cues=[('K', 100.92, 102.95, "Run and jump and one, two, three!"),
+        ('K', 103.15, 104.9, "Hide and seek behind the tree!"),
+        ('D', 105.1, 106.45, "(Woof! Woof!)"),
+        ('K', 106.61, 108.0, "Brother, sister, best friends too,"),
+        ('K', 108.15, 110.6, "God gave me you, and you, and YOU!"),
+        ('K', 110.80, 114.6, "Sunshine in the morning, raindrops on the flowers,"),
+        ('K', 114.85, 119.1, "I zoom around the garden for hours and hours!"),
+        ('K', 119.40, 123.4, "And I... just... sunbathe... for hours."),
+        ('K', 123.70, 127.7, "Big or small, short or tall, God takes care of each and all!")] +
+       [('K', t, None, l) for t, l in zip([128.01, 132.65, 136.27, 140.07, 142.15], CHORUS)],
+  last_end=144.6),
+}

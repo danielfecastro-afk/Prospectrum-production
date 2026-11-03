@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Fredoka,82,&H00FFFFFF,&H00FFFFFF,&H001F8AFF,&H78301000,-1,0,0,0,100,100,1,0,1,8,3,2,80,80,451,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.16,0:00:02.76,Sub,,0,0,0,,Mimi, I know what to say now!
+Dialogue: 0,0:00:02.76,0:00:07.11,Sub,,0,0,0,,Every good gift comes from God...\Nand the best one is us!
+Dialogue: 0,0:00:11.16,0:00:14.90,Sub,,0,0,0,,Dear God... thank You for Papi's strong hands...
+Dialogue: 0,0:00:15.10,0:00:19.30,Sub,,0,0,0,,for Mami's yummy food...\Nfor Mateo and our puppy...
+Dialogue: 0,0:00:20.10,0:00:23.90,Sub,,0,0,0,,for all our friends in the garden...\Nand for Mimi's hugs.
+Dialogue: 0,0:00:24.00,0:00:27.40,Sub,,0,0,0,,Every good gift comes from You. Amen!
+Dialogue: 0,0:00:28.00,0:00:31.85,Sub,,0,0,0,,Amen! Amen! Amen!
+Dialogue: 0,0:00:31.85,0:00:34.40,Sub,,0,0,0,,Amen! Now let's eat!
+Dialogue: 0,0:00:35.80,0:00:36.43,Sub,,0,0,0,,Thank you, God, for my family (my family!)
+Dialogue: 0,0:00:36.43,0:00:36.81,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} you, God, for my family (my family!)
+Dialogue: 0,0:00:36.81,0:00:36.97,Sub,,0,0,0,,Thank {\1c&H0000D7FF&\3c&H000E5AE0&}you,{\1c&H00FFFFFF&\3c&H001F8AFF&} God, for my family (my family!)
+Dialogue: 0,0:00:36.97,0:00:37.43,Sub,,0,0,0,,Thank you, {\1c&H0000D7FF&\3c&H000E5AE0&}God,{\1c&H00FFFFFF&\3c&H001F8AFF&} for my family (my family!)
+Dialogue: 0,0:00:37.43,0:00:37.85,Sub,,0,0,0,,Thank you, God, {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} my family (my family!)
+Dialogue: 0,0:00:37.85,0:00:38.06,Sub,,0,0,0,,Thank you, God, for {\1c&H0000D7FF&\3c&H000E5AE0&}my{\1c&H00FFFFFF&\3c&H001F8AFF&} family (my family!)
+Dialogue: 0,0:00:38.06,0:00:39.10,Sub,,0,0,0,,Thank you, God, for my {\1c&H0000D7FF&\3c&H000E5AE0&}family{\1c&H00FFFFFF&\3c&H001F8AFF&} (my family!)
+Dialogue: 0,0:00:39.10,0:00:39.47,Sub,,0,0,0,,Thank you, God, for my family {\1c&H0000D7FF&\3c&H000E5AE0&}(my{\1c&H00FFFFFF&\3c&H001F8AFF&} family!)
+Dialogue: 0,0:00:39.47,0:00:40.20,Sub,,0,0,0,,Thank you, God, for my family (my {\1c&H0000D7FF&\3c&H000E5AE0&}family!){\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:40.20,0:00:40.33,Sub,,0,0,0,,Thank you for the love I see (I see!)
+Dialogue: 0,0:00:40.33,0:00:40.79,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} you for the love I see (I see!)
+Dialogue: 0,0:00:40.79,0:00:41.12,Sub,,0,0,0,,Thank {\1c&H0000D7FF&\3c&H000E5AE0&}you{\1c&H00FFFFFF&\3c&H001F8AFF&} for the love I see (I see!)
+Dialogue: 0,0:00:41.12,0:00:41.50,Sub,,0,0,0,,Thank you {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} the love I see (I see!)
+Dialogue: 0,0:00:41.50,0:00:41.92,Sub,,0,0,0,,Thank you for {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} love I see (I see!)
+Dialogue: 0,0:00:41.92,0:00:42.42,Sub,,0,0,0,,Thank you for the {\1c&H0000D7FF&\3c&H000E5AE0&}love{\1c&H00FFFFFF&\3c&H001F8AFF&} I see (I see!)
+Dialogue: 0,0:00:42.42,0:00:42.67,Sub,,0,0,0,,Thank you for the love {\1c&H0000D7FF&\3c&H000E5AE0&}I{\1c&H00FFFFFF&\3c&H001F8AFF&} see (I see!)
+Dialogue: 0,0:00:42.67,0:00:43.08,Sub,,0,0,0,,Thank you for the love I {\1c&H0000D7FF&\3c&H000E5AE0&}see{\1c&H00FFFFFF&\3c&H001F8AFF&} (I see!)
+Dialogue: 0,0:00:43.08,0:00:43.46,Sub,,0,0,0,,Thank you for the love I see {\1c&H0000D7FF&\3c&H000E5AE0&}(I{\1c&H00FFFFFF&\3c&H001F8AFF&} see!)
+Dialogue: 0,0:00:43.46,0:00:43.80,Sub,,0,0,0,,Thank you for the love I see (I {\1c&H0000D7FF&\3c&H000E5AE0&}see!){\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:43.80,0:00:43.85,Sub,,0,0,0,,Every hug, every smile, every good gift
+Dialogue: 0,0:00:43.85,0:00:44.60,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Every{\1c&H00FFFFFF&\3c&H001F8AFF&} hug, every smile, every good gift
+Dialogue: 0,0:00:44.60,0:00:45.20,Sub,,0,0,0,,Every {\1c&H0000D7FF&\3c&H000E5AE0&}hug,{\1c&H00FFFFFF&\3c&H001F8AFF&} every smile, every good gift
+Dialogue: 0,0:00:45.20,0:00:45.81,Sub,,0,0,0,,Every hug, {\1c&H0000D7FF&\3c&H000E5AE0&}every{\1c&H00FFFFFF&\3c&H001F8AFF&} smile, every good gift
+Dialogue: 0,0:00:45.81,0:00:46.02,Sub,,0,0,0,,Every hug, every {\1c&H0000D7FF&\3c&H000E5AE0&}smile,{\1c&H00FFFFFF&\3c&H001F8AFF&} every good gift
+Dialogue: 0,0:00:46.02,0:00:46.97,Sub,,0,0,0,,Every hug, every smile, {\1c&H0000D7FF&\3c&H000E5AE0&}every{\1c&H00FFFFFF&\3c&H001F8AFF&} good gift
+Dialogue: 0,0:00:46.97,0:00:47.27,Sub,,0,0,0,,Every hug, every smile, every {\1c&H0000D7FF&\3c&H000E5AE0&}good{\1c&H00FFFFFF&\3c&H001F8AFF&} gift
+Dialogue: 0,0:00:47.27,0:00:47.52,Sub,,0,0,0,,Every hug, every smile, every good {\1c&H0000D7FF&\3c&H000E5AE0&}gift{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:47.52,0:00:47.74,Sub,,0,0,0,,all the while comes from You.
+Dialogue: 0,0:00:47.74,0:00:47.86,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}all{\1c&H00FFFFFF&\3c&H001F8AFF&} the while comes from You.
+Dialogue: 0,0:00:47.86,0:00:48.32,Sub,,0,0,0,,all {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} while comes from You.
+Dialogue: 0,0:00:48.32,0:00:48.65,Sub,,0,0,0,,all the {\1c&H0000D7FF&\3c&H000E5AE0&}while{\1c&H00FFFFFF&\3c&H001F8AFF&} comes from You.
+Dialogue: 0,0:00:48.65,0:00:49.03,Sub,,0,0,0,,all the while {\1c&H0000D7FF&\3c&H000E5AE0&}comes{\1c&H00FFFFFF&\3c&H001F8AFF&} from You.
+Dialogue: 0,0:00:49.03,0:00:49.36,Sub,,0,0,0,,all the while comes {\1c&H0000D7FF&\3c&H000E5AE0&}from{\1c&H00FFFFFF&\3c&H001F8AFF&} You.
+Dialogue: 0,0:00:49.36,0:00:49.64,Sub,,0,0,0,,all the while comes from {\1c&H0000D7FF&\3c&H000E5AE0&}You.{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:49.64,0:00:49.77,Sub,,0,0,0,,Thank you, God, for my family!
+Dialogue: 0,0:00:49.77,0:00:50.02,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} you, God, for my family!
+Dialogue: 0,0:00:50.02,0:00:50.40,Sub,,0,0,0,,Thank {\1c&H0000D7FF&\3c&H000E5AE0&}you,{\1c&H00FFFFFF&\3c&H001F8AFF&} God, for my family!
+Dialogue: 0,0:00:50.40,0:00:50.69,Sub,,0,0,0,,Thank you, {\1c&H0000D7FF&\3c&H000E5AE0&}God,{\1c&H00FFFFFF&\3c&H001F8AFF&} for my family!
+Dialogue: 0,0:00:50.69,0:00:51.02,Sub,,0,0,0,,Thank you, God, {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} my family!
+Dialogue: 0,0:00:51.02,0:00:51.40,Sub,,0,0,0,,Thank you, God, for {\1c&H0000D7FF&\3c&H000E5AE0&}my{\1c&H00FFFFFF&\3c&H001F8AFF&} family!
+Dialogue: 0,0:00:51.40,0:00:52.47,Sub,,0,0,0,,Thank you, God, for my {\1c&H0000D7FF&\3c&H000E5AE0&}family!{\1c&H00FFFFFF&\3c&H001F8AFF&}

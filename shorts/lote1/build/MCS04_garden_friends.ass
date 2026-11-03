@@ -1,0 +1,125 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Sub,Fredoka,82,&H00FFFFFF,&H00FFFFFF,&H001F8AFF,&H78301000,-1,0,0,0,100,100,1,0,1,8,3,2,80,80,451,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.17,Sub,,0,0,0,,Run and jump and one, two, three!
+Dialogue: 0,0:00:00.17,0:00:00.42,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Run{\1c&H00FFFFFF&\3c&H001F8AFF&} and jump and one, two, three!
+Dialogue: 0,0:00:00.42,0:00:00.68,Sub,,0,0,0,,Run {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} jump and one, two, three!
+Dialogue: 0,0:00:00.68,0:00:00.93,Sub,,0,0,0,,Run and {\1c&H0000D7FF&\3c&H000E5AE0&}jump{\1c&H00FFFFFF&\3c&H001F8AFF&} and one, two, three!
+Dialogue: 0,0:00:00.93,0:00:01.10,Sub,,0,0,0,,Run and jump {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} one, two, three!
+Dialogue: 0,0:00:01.10,0:00:01.69,Sub,,0,0,0,,Run and jump and {\1c&H0000D7FF&\3c&H000E5AE0&}one,{\1c&H00FFFFFF&\3c&H001F8AFF&} two, three!
+Dialogue: 0,0:00:01.69,0:00:01.93,Sub,,0,0,0,,Run and jump and one, {\1c&H0000D7FF&\3c&H000E5AE0&}two,{\1c&H00FFFFFF&\3c&H001F8AFF&} three!
+Dialogue: 0,0:00:01.93,0:00:02.20,Sub,,0,0,0,,Run and jump and one, two, {\1c&H0000D7FF&\3c&H000E5AE0&}three!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:02.20,0:00:02.40,Sub,,0,0,0,,Hide and seek behind the tree!
+Dialogue: 0,0:00:02.40,0:00:02.75,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Hide{\1c&H00FFFFFF&\3c&H001F8AFF&} and seek behind the tree!
+Dialogue: 0,0:00:02.75,0:00:03.01,Sub,,0,0,0,,Hide {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} seek behind the tree!
+Dialogue: 0,0:00:03.01,0:00:03.30,Sub,,0,0,0,,Hide and {\1c&H0000D7FF&\3c&H000E5AE0&}seek{\1c&H00FFFFFF&\3c&H001F8AFF&} behind the tree!
+Dialogue: 0,0:00:03.30,0:00:03.71,Sub,,0,0,0,,Hide and seek {\1c&H0000D7FF&\3c&H000E5AE0&}behind{\1c&H00FFFFFF&\3c&H001F8AFF&} the tree!
+Dialogue: 0,0:00:03.71,0:00:03.93,Sub,,0,0,0,,Hide and seek behind {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} tree!
+Dialogue: 0,0:00:03.93,0:00:04.30,Sub,,0,0,0,,Hide and seek behind the {\1c&H0000D7FF&\3c&H000E5AE0&}tree!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:04.30,0:00:05.66,Sub,,0,0,0,,(Woof! Woof!)
+Dialogue: 0,0:00:05.66,0:00:05.86,Sub,,0,0,0,,Brother, sister, best friends too,
+Dialogue: 0,0:00:05.86,0:00:06.20,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Brother,{\1c&H00FFFFFF&\3c&H001F8AFF&} sister, best friends too,
+Dialogue: 0,0:00:06.20,0:00:06.60,Sub,,0,0,0,,Brother, {\1c&H0000D7FF&\3c&H000E5AE0&}sister,{\1c&H00FFFFFF&\3c&H001F8AFF&} best friends too,
+Dialogue: 0,0:00:06.60,0:00:06.75,Sub,,0,0,0,,Brother, sister, {\1c&H0000D7FF&\3c&H000E5AE0&}best{\1c&H00FFFFFF&\3c&H001F8AFF&} friends too,
+Dialogue: 0,0:00:06.75,0:00:07.13,Sub,,0,0,0,,Brother, sister, best {\1c&H0000D7FF&\3c&H000E5AE0&}friends{\1c&H00FFFFFF&\3c&H001F8AFF&} too,
+Dialogue: 0,0:00:07.13,0:00:07.20,Sub,,0,0,0,,Brother, sister, best friends {\1c&H0000D7FF&\3c&H000E5AE0&}too,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:07.20,0:00:07.40,Sub,,0,0,0,,God gave me you, and you, and YOU!
+Dialogue: 0,0:00:07.40,0:00:07.69,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}God{\1c&H00FFFFFF&\3c&H001F8AFF&} gave me you, and you, and YOU!
+Dialogue: 0,0:00:07.69,0:00:08.23,Sub,,0,0,0,,God {\1c&H0000D7FF&\3c&H000E5AE0&}gave{\1c&H00FFFFFF&\3c&H001F8AFF&} me you, and you, and YOU!
+Dialogue: 0,0:00:08.23,0:00:08.45,Sub,,0,0,0,,God gave {\1c&H0000D7FF&\3c&H000E5AE0&}me{\1c&H00FFFFFF&\3c&H001F8AFF&} you, and you, and YOU!
+Dialogue: 0,0:00:08.45,0:00:08.76,Sub,,0,0,0,,God gave me {\1c&H0000D7FF&\3c&H000E5AE0&}you,{\1c&H00FFFFFF&\3c&H001F8AFF&} and you, and YOU!
+Dialogue: 0,0:00:08.76,0:00:09.05,Sub,,0,0,0,,God gave me you, {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} you, and YOU!
+Dialogue: 0,0:00:09.05,0:00:09.35,Sub,,0,0,0,,God gave me you, and {\1c&H0000D7FF&\3c&H000E5AE0&}you,{\1c&H00FFFFFF&\3c&H001F8AFF&} and YOU!
+Dialogue: 0,0:00:09.35,0:00:09.58,Sub,,0,0,0,,God gave me you, and you, {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} YOU!
+Dialogue: 0,0:00:09.58,0:00:09.85,Sub,,0,0,0,,God gave me you, and you, and {\1c&H0000D7FF&\3c&H000E5AE0&}YOU!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:09.85,0:00:10.05,Sub,,0,0,0,,Sunshine in the morning, raindrops on the flowers,
+Dialogue: 0,0:00:10.05,0:00:10.72,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Sunshine{\1c&H00FFFFFF&\3c&H001F8AFF&} in the morning, raindrops on the flowers,
+Dialogue: 0,0:00:10.72,0:00:11.00,Sub,,0,0,0,,Sunshine {\1c&H0000D7FF&\3c&H000E5AE0&}in{\1c&H00FFFFFF&\3c&H001F8AFF&} the morning, raindrops on the flowers,
+Dialogue: 0,0:00:11.00,0:00:11.32,Sub,,0,0,0,,Sunshine in {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} morning, raindrops on the flowers,
+Dialogue: 0,0:00:11.32,0:00:11.95,Sub,,0,0,0,,Sunshine in the {\1c&H0000D7FF&\3c&H000E5AE0&}morning,{\1c&H00FFFFFF&\3c&H001F8AFF&} raindrops on the flowers,
+Dialogue: 0,0:00:11.95,0:00:12.65,Sub,,0,0,0,,Sunshine in the morning, {\1c&H0000D7FF&\3c&H000E5AE0&}raindrops{\1c&H00FFFFFF&\3c&H001F8AFF&} on the flowers,
+Dialogue: 0,0:00:12.65,0:00:12.90,Sub,,0,0,0,,Sunshine in the morning, raindrops {\1c&H0000D7FF&\3c&H000E5AE0&}on{\1c&H00FFFFFF&\3c&H001F8AFF&} the flowers,
+Dialogue: 0,0:00:12.90,0:00:13.19,Sub,,0,0,0,,Sunshine in the morning, raindrops on {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} flowers,
+Dialogue: 0,0:00:13.19,0:00:13.90,Sub,,0,0,0,,Sunshine in the morning, raindrops on the {\1c&H0000D7FF&\3c&H000E5AE0&}flowers,{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:13.90,0:00:14.10,Sub,,0,0,0,,I zoom around the garden for hours and hours!
+Dialogue: 0,0:00:14.10,0:00:14.52,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}I{\1c&H00FFFFFF&\3c&H001F8AFF&} zoom around the garden for hours and hours!
+Dialogue: 0,0:00:14.52,0:00:14.85,Sub,,0,0,0,,I {\1c&H0000D7FF&\3c&H000E5AE0&}zoom{\1c&H00FFFFFF&\3c&H001F8AFF&} around the garden for hours and hours!
+Dialogue: 0,0:00:14.85,0:00:15.41,Sub,,0,0,0,,I zoom {\1c&H0000D7FF&\3c&H000E5AE0&}around{\1c&H00FFFFFF&\3c&H001F8AFF&} the garden for hours and hours!
+Dialogue: 0,0:00:15.41,0:00:15.81,Sub,,0,0,0,,I zoom around {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} garden for hours and hours!
+Dialogue: 0,0:00:15.81,0:00:16.39,Sub,,0,0,0,,I zoom around the {\1c&H0000D7FF&\3c&H000E5AE0&}garden{\1c&H00FFFFFF&\3c&H001F8AFF&} for hours and hours!
+Dialogue: 0,0:00:16.39,0:00:16.74,Sub,,0,0,0,,I zoom around the garden {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} hours and hours!
+Dialogue: 0,0:00:16.74,0:00:17.37,Sub,,0,0,0,,I zoom around the garden for {\1c&H0000D7FF&\3c&H000E5AE0&}hours{\1c&H00FFFFFF&\3c&H001F8AFF&} and hours!
+Dialogue: 0,0:00:17.37,0:00:17.70,Sub,,0,0,0,,I zoom around the garden for hours {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} hours!
+Dialogue: 0,0:00:17.70,0:00:18.45,Sub,,0,0,0,,I zoom around the garden for hours and {\1c&H0000D7FF&\3c&H000E5AE0&}hours!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:18.45,0:00:18.65,Sub,,0,0,0,,And I... just... sunbathe... for hours.
+Dialogue: 0,0:00:18.65,0:00:19.24,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}And{\1c&H00FFFFFF&\3c&H001F8AFF&} I... just... sunbathe... for hours.
+Dialogue: 0,0:00:19.24,0:00:19.65,Sub,,0,0,0,,And {\1c&H0000D7FF&\3c&H000E5AE0&}I...{\1c&H00FFFFFF&\3c&H001F8AFF&} just... sunbathe... for hours.
+Dialogue: 0,0:00:19.65,0:00:20.15,Sub,,0,0,0,,And I... {\1c&H0000D7FF&\3c&H000E5AE0&}just...{\1c&H00FFFFFF&\3c&H001F8AFF&} sunbathe... for hours.
+Dialogue: 0,0:00:20.15,0:00:21.15,Sub,,0,0,0,,And I... just... {\1c&H0000D7FF&\3c&H000E5AE0&}sunbathe...{\1c&H00FFFFFF&\3c&H001F8AFF&} for hours.
+Dialogue: 0,0:00:21.15,0:00:21.65,Sub,,0,0,0,,And I... just... sunbathe... {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} hours.
+Dialogue: 0,0:00:21.65,0:00:22.75,Sub,,0,0,0,,And I... just... sunbathe... for {\1c&H0000D7FF&\3c&H000E5AE0&}hours.{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:22.75,0:00:22.95,Sub,,0,0,0,,Big or small, short or tall, God takes care of each and all!
+Dialogue: 0,0:00:22.95,0:00:23.25,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Big{\1c&H00FFFFFF&\3c&H001F8AFF&} or small, short or tall, God takes care of each and all!
+Dialogue: 0,0:00:23.25,0:00:23.58,Sub,,0,0,0,,Big {\1c&H0000D7FF&\3c&H000E5AE0&}or{\1c&H00FFFFFF&\3c&H001F8AFF&} small, short or tall, God takes care of each and all!
+Dialogue: 0,0:00:23.58,0:00:23.81,Sub,,0,0,0,,Big or {\1c&H0000D7FF&\3c&H000E5AE0&}small,{\1c&H00FFFFFF&\3c&H001F8AFF&} short or tall, God takes care of each and all!
+Dialogue: 0,0:00:23.81,0:00:24.12,Sub,,0,0,0,,Big or small, {\1c&H0000D7FF&\3c&H000E5AE0&}short{\1c&H00FFFFFF&\3c&H001F8AFF&} or tall, God takes care of each and all!
+Dialogue: 0,0:00:24.12,0:00:24.36,Sub,,0,0,0,,Big or small, short {\1c&H0000D7FF&\3c&H000E5AE0&}or{\1c&H00FFFFFF&\3c&H001F8AFF&} tall, God takes care of each and all!
+Dialogue: 0,0:00:24.36,0:00:24.61,Sub,,0,0,0,,Big or small, short or {\1c&H0000D7FF&\3c&H000E5AE0&}tall,{\1c&H00FFFFFF&\3c&H001F8AFF&} God takes care of each and all!
+Dialogue: 0,0:00:24.61,0:00:24.95,Sub,,0,0,0,,Big or small, short or tall, {\1c&H0000D7FF&\3c&H000E5AE0&}God{\1c&H00FFFFFF&\3c&H001F8AFF&} takes care of each and all!
+Dialogue: 0,0:00:24.95,0:00:25.20,Sub,,0,0,0,,Big or small, short or tall, God {\1c&H0000D7FF&\3c&H000E5AE0&}takes{\1c&H00FFFFFF&\3c&H001F8AFF&} care of each and all!
+Dialogue: 0,0:00:25.20,0:00:25.78,Sub,,0,0,0,,Big or small, short or tall, God takes {\1c&H0000D7FF&\3c&H000E5AE0&}care{\1c&H00FFFFFF&\3c&H001F8AFF&} of each and all!
+Dialogue: 0,0:00:25.78,0:00:26.09,Sub,,0,0,0,,Big or small, short or tall, God takes care {\1c&H0000D7FF&\3c&H000E5AE0&}of{\1c&H00FFFFFF&\3c&H001F8AFF&} each and all!
+Dialogue: 0,0:00:26.09,0:00:26.32,Sub,,0,0,0,,Big or small, short or tall, God takes care of {\1c&H0000D7FF&\3c&H000E5AE0&}each{\1c&H00FFFFFF&\3c&H001F8AFF&} and all!
+Dialogue: 0,0:00:26.32,0:00:26.64,Sub,,0,0,0,,Big or small, short or tall, God takes care of each {\1c&H0000D7FF&\3c&H000E5AE0&}and{\1c&H00FFFFFF&\3c&H001F8AFF&} all!
+Dialogue: 0,0:00:26.64,0:00:27.06,Sub,,0,0,0,,Big or small, short or tall, God takes care of each and {\1c&H0000D7FF&\3c&H000E5AE0&}all!{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:27.06,0:00:27.40,Sub,,0,0,0,,Thank you, God, for my family (my family!)
+Dialogue: 0,0:00:27.40,0:00:27.90,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} you, God, for my family (my family!)
+Dialogue: 0,0:00:27.90,0:00:28.19,Sub,,0,0,0,,Thank {\1c&H0000D7FF&\3c&H000E5AE0&}you,{\1c&H00FFFFFF&\3c&H001F8AFF&} God, for my family (my family!)
+Dialogue: 0,0:00:28.19,0:00:28.49,Sub,,0,0,0,,Thank you, {\1c&H0000D7FF&\3c&H000E5AE0&}God,{\1c&H00FFFFFF&\3c&H001F8AFF&} for my family (my family!)
+Dialogue: 0,0:00:28.49,0:00:28.86,Sub,,0,0,0,,Thank you, God, {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} my family (my family!)
+Dialogue: 0,0:00:28.86,0:00:29.24,Sub,,0,0,0,,Thank you, God, for {\1c&H0000D7FF&\3c&H000E5AE0&}my{\1c&H00FFFFFF&\3c&H001F8AFF&} family (my family!)
+Dialogue: 0,0:00:29.24,0:00:30.32,Sub,,0,0,0,,Thank you, God, for my {\1c&H0000D7FF&\3c&H000E5AE0&}family{\1c&H00FFFFFF&\3c&H001F8AFF&} (my family!)
+Dialogue: 0,0:00:30.32,0:00:30.69,Sub,,0,0,0,,Thank you, God, for my family {\1c&H0000D7FF&\3c&H000E5AE0&}(my{\1c&H00FFFFFF&\3c&H001F8AFF&} family!)
+Dialogue: 0,0:00:30.69,0:00:31.70,Sub,,0,0,0,,Thank you, God, for my family (my {\1c&H0000D7FF&\3c&H000E5AE0&}family!){\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:31.70,0:00:31.92,Sub,,0,0,0,,Thank you for the love I see (I see!)
+Dialogue: 0,0:00:31.92,0:00:32.29,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} you for the love I see (I see!)
+Dialogue: 0,0:00:32.29,0:00:32.62,Sub,,0,0,0,,Thank {\1c&H0000D7FF&\3c&H000E5AE0&}you{\1c&H00FFFFFF&\3c&H001F8AFF&} for the love I see (I see!)
+Dialogue: 0,0:00:32.62,0:00:32.88,Sub,,0,0,0,,Thank you {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} the love I see (I see!)
+Dialogue: 0,0:00:32.88,0:00:33.42,Sub,,0,0,0,,Thank you for {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} love I see (I see!)
+Dialogue: 0,0:00:33.42,0:00:33.96,Sub,,0,0,0,,Thank you for the {\1c&H0000D7FF&\3c&H000E5AE0&}love{\1c&H00FFFFFF&\3c&H001F8AFF&} I see (I see!)
+Dialogue: 0,0:00:33.96,0:00:34.21,Sub,,0,0,0,,Thank you for the love {\1c&H0000D7FF&\3c&H000E5AE0&}I{\1c&H00FFFFFF&\3c&H001F8AFF&} see (I see!)
+Dialogue: 0,0:00:34.21,0:00:34.58,Sub,,0,0,0,,Thank you for the love I {\1c&H0000D7FF&\3c&H000E5AE0&}see{\1c&H00FFFFFF&\3c&H001F8AFF&} (I see!)
+Dialogue: 0,0:00:34.58,0:00:35.00,Sub,,0,0,0,,Thank you for the love I see {\1c&H0000D7FF&\3c&H000E5AE0&}(I{\1c&H00FFFFFF&\3c&H001F8AFF&} see!)
+Dialogue: 0,0:00:35.00,0:00:35.32,Sub,,0,0,0,,Thank you for the love I see (I {\1c&H0000D7FF&\3c&H000E5AE0&}see!){\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:35.32,0:00:35.41,Sub,,0,0,0,,Every hug, every smile, every good gift
+Dialogue: 0,0:00:35.41,0:00:36.12,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Every{\1c&H00FFFFFF&\3c&H001F8AFF&} hug, every smile, every good gift
+Dialogue: 0,0:00:36.12,0:00:36.58,Sub,,0,0,0,,Every {\1c&H0000D7FF&\3c&H000E5AE0&}hug,{\1c&H00FFFFFF&\3c&H001F8AFF&} every smile, every good gift
+Dialogue: 0,0:00:36.58,0:00:37.25,Sub,,0,0,0,,Every hug, {\1c&H0000D7FF&\3c&H000E5AE0&}every{\1c&H00FFFFFF&\3c&H001F8AFF&} smile, every good gift
+Dialogue: 0,0:00:37.25,0:00:37.79,Sub,,0,0,0,,Every hug, every {\1c&H0000D7FF&\3c&H000E5AE0&}smile,{\1c&H00FFFFFF&\3c&H001F8AFF&} every good gift
+Dialogue: 0,0:00:37.79,0:00:38.50,Sub,,0,0,0,,Every hug, every smile, {\1c&H0000D7FF&\3c&H000E5AE0&}every{\1c&H00FFFFFF&\3c&H001F8AFF&} good gift
+Dialogue: 0,0:00:38.50,0:00:38.83,Sub,,0,0,0,,Every hug, every smile, every {\1c&H0000D7FF&\3c&H000E5AE0&}good{\1c&H00FFFFFF&\3c&H001F8AFF&} gift
+Dialogue: 0,0:00:38.83,0:00:39.12,Sub,,0,0,0,,Every hug, every smile, every good {\1c&H0000D7FF&\3c&H000E5AE0&}gift{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:39.12,0:00:39.42,Sub,,0,0,0,,all the while comes from You.
+Dialogue: 0,0:00:39.42,0:00:39.63,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}all{\1c&H00FFFFFF&\3c&H001F8AFF&} the while comes from You.
+Dialogue: 0,0:00:39.63,0:00:39.96,Sub,,0,0,0,,all {\1c&H0000D7FF&\3c&H000E5AE0&}the{\1c&H00FFFFFF&\3c&H001F8AFF&} while comes from You.
+Dialogue: 0,0:00:39.96,0:00:40.25,Sub,,0,0,0,,all the {\1c&H0000D7FF&\3c&H000E5AE0&}while{\1c&H00FFFFFF&\3c&H001F8AFF&} comes from You.
+Dialogue: 0,0:00:40.25,0:00:40.71,Sub,,0,0,0,,all the while {\1c&H0000D7FF&\3c&H000E5AE0&}comes{\1c&H00FFFFFF&\3c&H001F8AFF&} from You.
+Dialogue: 0,0:00:40.71,0:00:40.96,Sub,,0,0,0,,all the while comes {\1c&H0000D7FF&\3c&H000E5AE0&}from{\1c&H00FFFFFF&\3c&H001F8AFF&} You.
+Dialogue: 0,0:00:40.96,0:00:41.20,Sub,,0,0,0,,all the while comes from {\1c&H0000D7FF&\3c&H000E5AE0&}You.{\1c&H00FFFFFF&\3c&H001F8AFF&}
+Dialogue: 0,0:00:41.20,0:00:41.38,Sub,,0,0,0,,Thank you, God, for my family!
+Dialogue: 0,0:00:41.38,0:00:41.62,Sub,,0,0,0,,{\1c&H0000D7FF&\3c&H000E5AE0&}Thank{\1c&H00FFFFFF&\3c&H001F8AFF&} you, God, for my family!
+Dialogue: 0,0:00:41.62,0:00:41.96,Sub,,0,0,0,,Thank {\1c&H0000D7FF&\3c&H000E5AE0&}you,{\1c&H00FFFFFF&\3c&H001F8AFF&} God, for my family!
+Dialogue: 0,0:00:41.96,0:00:42.17,Sub,,0,0,0,,Thank you, {\1c&H0000D7FF&\3c&H000E5AE0&}God,{\1c&H00FFFFFF&\3c&H001F8AFF&} for my family!
+Dialogue: 0,0:00:42.17,0:00:42.54,Sub,,0,0,0,,Thank you, God, {\1c&H0000D7FF&\3c&H000E5AE0&}for{\1c&H00FFFFFF&\3c&H001F8AFF&} my family!
+Dialogue: 0,0:00:42.54,0:00:42.83,Sub,,0,0,0,,Thank you, God, for {\1c&H0000D7FF&\3c&H000E5AE0&}my{\1c&H00FFFFFF&\3c&H001F8AFF&} family!
+Dialogue: 0,0:00:42.83,0:00:44.00,Sub,,0,0,0,,Thank you, God, for my {\1c&H0000D7FF&\3c&H000E5AE0&}family!{\1c&H00FFFFFF&\3c&H001F8AFF&}
