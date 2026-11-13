@@ -116,7 +116,7 @@ def main():
     total = cold_len + SONG_LEN + outro_len
     cmd = ["ffmpeg", "-v", "error", "-y", *in_args, "-filter_complex", ";".join(filters),
            "-map", "[vout]", "-map", "[aout]", "-t", f"{total:.2f}",
-           "-c:v", "libx264", "-preset", "medium", "-crf", "18", "-pix_fmt", "yuv420p",
+           "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
            "-c:a", "aac", "-b:a", "192k", "-movflags", "+faststart", OUT]
     subprocess.run(cmd, check=True)
     print(f"OK {OUT} ~{total:.1f}s")
