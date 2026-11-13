@@ -56,25 +56,44 @@ def main():
     cold_len = 4.0 * len(COLD_OPEN)
 
     # 2) Canción: cada mitad se estira para encajar en su tramo
+    def still(name, seconds, out_label, direction):
+        """Fotograma fijo con zoom lento (Ken Burns) si la escena aún no está animada."""
+        i = inp(os.path.join(HERE, "frames", f"{name}.png"))
+        frames = int(round(seconds * 24))
+        z = "min(zoom+0.0009,1.18)" if direction else "if(eq(on,0),1.18,max(zoom-0.0009,1.0))"
+        filters.append(f"[{i}:v]scale=2400:-1,zoompan=z='{z}':x='iw/2-(iw/zoom/2)':"
+                       f"y='ih/2-(ih/zoom/2)':d={frames}:s=1920x1080:fps=24,format=yuv420p,setsar=1"
+                       f"{out_label}")
+
     def half(segs, target, tag):
         raw = sum(e - s for _, s, e in segs)
         k = target / raw
         labels = []
         for n, (name, s, e) in enumerate(segs):
-            i = inp(os.path.join(CLIPS, f"{name}.mp4"))
             lab = f"[{tag}{n}]"
-            filters.append(f"[{i}:v]trim={s}:{e},setpts=(PTS-STARTPTS)*{k:.4f},{V}{lab}")
+            clip = os.path.join(CLIPS, f"{name}.mp4")
+            if os.path.exists(clip):
+                i = inp(clip)
+                filters.append(f"[{i}:v]trim={s}:{e},setpts=(PTS-STARTPTS)*{k:.4f},{V}{lab}")
+            else:
+                print(f"  (sin animar) {name}: fotograma con zoom")
+                still(name, (e - s) * k, lab, n % 2 == 0)
             labels.append(lab)
         return labels
 
     song_v = half(HALF1, HALF1_LEN, "h1_") + half(HALF2, HALF2_LEN, "h2_")
 
     # 3) Rana "¿Otra vez?" + tarjeta final
-    i = inp(os.path.join(CLIPS, f"{OUTRO_FROG[0]}.mp4"))
-    filters.append(f"[{i}:v]trim={OUTRO_FROG[1]}:{OUTRO_FROG[2]},setpts=PTS-STARTPTS,{V},"
-                   f"drawtext=fontfile={FONT}:text='¿Otra vez?  One more time!':fontsize=110:"
+    frog_clip = os.path.join(CLIPS, f"{OUTRO_FROG[0]}.mp4")
+    if os.path.exists(frog_clip):
+        i = inp(frog_clip)
+        filters.append(f"[{i}:v]trim={OUTRO_FROG[1]}:{OUTRO_FROG[2]},setpts=PTS-STARTPTS,{V}[frog0]")
+    else:
+        print(f"  (sin animar) {OUTRO_FROG[0]}: fotograma con zoom")
+        still(OUTRO_FROG[0], OUTRO_FROG[2] - OUTRO_FROG[1], "[frog0]", True)
+    filters.append(f"[frog0]drawtext=fontfile={FONT}:text='¿Otra vez?  One more time!':fontsize=110:"
                    f"fontcolor=#FFD93B:borderw=10:bordercolor=#1E7A3A:x=(w-tw)/2:y=90[frog]")
-    i = inp(END_CARD, ["-loop", "1", "-t", str(END_CARD_LEN)])
+    i = inp(END_CARD)
     filters.append(
         f"[{i}:v]scale=2400:-1,zoompan=z='min(zoom+0.0006,1.15)':x='iw/2-(iw/zoom/2)':"
         f"y='ih/2-(ih/zoom/2)':d={int(END_CARD_LEN*24)}:s=1920x1080:fps=24,format=yuv420p,setsar=1,"
