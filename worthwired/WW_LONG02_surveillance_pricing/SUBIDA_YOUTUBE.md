@@ -1,6 +1,6 @@
 # WorthWired LONG02: ficha de subida a YouTube
 
-**Archivo:** `WorthWired_LONG02_surveillance_pricing.mp4` (6:56, 1920x1080)
+**Archivo:** `WorthWired_LONG02_surveillance_pricing.mp4` (5:01, 1920x1080, voz de Javier)
 **Miniatura:** `thumbnail_LONG02.jpg` (1280x720)
 
 ## Título
@@ -27,13 +27,13 @@ In this video:
 
 ⏱️ Chapters
 0:00 Same eggs, five prices
-0:40 The Instacart experiment
-2:00 What is surveillance pricing?
-3:04 2026: Maryland & Connecticut ban it
-3:53 New Jersey, New York & the FTC
-4:54 Digital price tags
-5:22 5 ways to protect your wallet
-6:38 The end of one price for everyone?
+0:39 The Instacart experiment
+1:47 What is surveillance pricing?
+2:45 2026: Maryland & Connecticut ban it
+3:27 New Jersey, New York & the FTC
+3:49 Digital price tags
+4:18 5 ways to protect your wallet
+4:37 The end of one price for everyone?
 
 📚 Sources
 • Groundwork Collaborative / Consumer Reports / More Perfect Union, Instacart study (Dec. 2025): https://groundworkcollaborative.org/work/instacart/
@@ -65,7 +65,7 @@ surveillance pricing, personalized pricing, algorithmic pricing, instacart price
 | Contenido alterado o sintético | **Sí** (voz e imágenes generadas con IA) |
 | Categoría | Educación |
 | Idioma | Inglés |
-| Pantalla final (últimos 17 s) | Video: "Same Car, $14,000 More" (tu mejor video) + botón de suscripción |
+| Pantalla final (últimos 20 s) | Video: "Same Car, $14,000 More" (tu mejor video) + botón de suscripción |
 | Comentario fijado | `Have you ever seen two different prices for the same item? Drop your story below 👇` |
 
 ## Shorts para empujar este video (después)
