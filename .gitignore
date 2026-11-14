@@ -6,3 +6,4 @@ episodes/*/refs/grid.jpg
 worthwired/*/build/
 worthwired/voice_ref/*.wav
 worthwired/voice_ref/*.mp4
+worthwired/*/audio_javier/*_raw.wav

@@ -1,7 +1,21 @@
 {
   "canal": "WorthWired",
-  "voz_narracion": {"model": "seed_audio", "voice_type": "preset", "voice_id": "472a562a-4c33-5114-8210-d6ffa1e4e2c5", "name": "Ian", "desde": "LONG03 en adelante (elegida por el usuario el 14 nov 2026)"},
-  "voz_anterior": {"voice_id": "e18664a7-ee4f-5273-acf8-533eb24cd366", "name": "Miles", "usada_en": ["LONG02"]},
+  "voz_narracion": {
+    "nombre": "Javier (voz del canal, copiada de su propio Short)",
+    "model": "seed_audio",
+    "audio_reference_media_id": "01b40dab-6a79-4eee-b2e6-05eadb78bde0",
+    "referencia_local": "worthwired/voice_ref/referencia_javier_original.mp3",
+    "fuente": "https://www.youtube.com/shorts/jdVMH-hslbc",
+    "prefijo_prompt": "Read this in the exact voice, tone and pacing of @Audio 1: ",
+    "aprobada": "14 nov 2026"
+  },
   "estilo": "voz en off + imágenes con zoom lento + tarjetas con cifras y fuente; colores dorado #F5C518, blanco, rojo #E53935, fondo #0B0F14",
-  "costos_aprox_higgsfield": {"narracion_seed_audio": "~0.04 créditos por palabra (~37 por 900 palabras)", "imagen_gpt_image_2_6": "0.25 por imagen"}
+  "costos_aprox_higgsfield": {
+    "narracion_seed_audio": "~0.04 créditos por palabra (~37 por 900 palabras)",
+    "imagen_gpt_image_2_6": "0.25 por imagen"
+  },
+  "voces_descartadas": [
+    "Miles (e18664a7-…)",
+    "Ian (472a562a-…)"
+  ]
 }

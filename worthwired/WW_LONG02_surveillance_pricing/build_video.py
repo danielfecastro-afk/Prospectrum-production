@@ -9,7 +9,8 @@ import os, subprocess, json
 from PIL import Image, ImageDraw, ImageFont, ImageFilter, ImageEnhance
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-IMG, AUD = os.path.join(HERE, "img"), os.path.join(HERE, "audio")
+IMG = os.path.join(HERE, "img")
+AUD = os.path.join(HERE, os.environ.get("AUDIO_DIR", "audio_javier"))
 BUILD = os.path.join(HERE, "build")
 OUT = os.path.join(HERE, "WorthWired_LONG02_surveillance_pricing.mp4")
 F = "/usr/share/fonts/opentype/inter/"
