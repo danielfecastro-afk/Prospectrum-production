@@ -4,3 +4,5 @@ episodes/*/frames/short_check.jpg
 episodes/*/long/sheet.jpg
 episodes/*/refs/grid.jpg
 worthwired/*/build/
+worthwired/voice_ref/*.wav
+worthwired/voice_ref/*.mp4
